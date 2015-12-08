@@ -1,4 +1,6 @@
 # Autm-rb
+
+[![Join the chat at https://gitter.im/TRex22/autm-rb](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TRex22/autm-rb?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Another theme for jekyll.
 based on shiori and midnight
 
